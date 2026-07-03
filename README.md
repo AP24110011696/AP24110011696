@@ -69,7 +69,8 @@ A platform for discovering internships, hackathons, workshops and technical even
 - MongoDB
 
 🔗 Repository:
-(Add your repository link)
+(https://github.com/AP24110011696/EVENTS-AND-OPPORTUNITY-DISCOVERY-PLATFORMS
+)
 
 ---
 
@@ -83,7 +84,7 @@ Machine Learning based system to classify coding questions according to their di
 - Flask
 
 🔗 Repository:
-(Add your repository link)
+()
 
 ---
 
@@ -97,7 +98,7 @@ Backend APIs for the Question Difficulty Classification system.
 - MongoDB
 
 🔗 Repository:
-(Add your repository link)
+()
 
 ---
 
@@ -109,7 +110,7 @@ Attendance Management System with authentication and attendance tracking.
 - MERN Stack
 
 🔗 Repository:
-(Add your repository link)
+(https://github.com/AP24110011696/Smart-attendance-management-system)
 
 ---
 
@@ -122,7 +123,7 @@ Web application for plagiarism detection.
 - JavaScript
 
 🔗 Repository:
-(Add your repository link)
+(https://github.com/AP24110011696/plagiarism-checker)
 
 ---
 
@@ -136,7 +137,7 @@ Interactive application for electrical mapping and visualization.
 - JavaScript
 
 🔗 Repository:
-(Add your repository link)
+(https://github.com/AP24110011696/ELECTRO-MAP)
 
 ---
 
