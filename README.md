@@ -17,8 +17,8 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Yuga Yatra Retail (OPC) Private Limited (Virtual Internship)
-📅 Jul 2025 – Sep 2025  
+### 🏢 ccc(OPC) Private Limited (Virtual Internship)
+📅 may 2026– july 2026  
 
 - ⚡ Improved application performance by 33% (4.2s → 2.8s)
 - 🛠 Fixed 12+ backend bugs in Node.js services
@@ -33,10 +33,10 @@
 - Achieved up to 100% accuracy
 - Tech: Python, scikit-learn, Pandas, NumPy
 
-### 🏥 E-Hospital Management System
-- Developed full-stack system for managing hospital operations
-- Features: Secure login, appointments, real-time updates
-- Tech: HTML, CSS, JavaScript, SQL
+### Question difficulty classification agent
+- Developed MLsystem for classifing questions
+- Features: Secure login, easy question analysis, real-time updates
+- Tech: ML, type script, JavaScript, SQL
 
 ### 📊 Explainable Loan Classifier (SHAP)
 - Built ML model with 99% accuracy & 0.999 ROC-AUC
@@ -64,7 +64,7 @@
 ---
 
 ## 📜 Certifications
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- MongoDB Node.js certification – MongoDB University
 - Machine Learning for Beginners – Coursera
 - Java & Python Training – Internshala
 
