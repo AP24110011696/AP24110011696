@@ -1,24 +1,227 @@
-# 💫 About Me:
-Hi 👋, I'm Sravya Namburu<br><br>🎓 B.Tech Computer Science student at SRM University AP<br>💻 Aspiring Software Developer | MERN Stack Learner | Machine Learning Enthusiast<br>🚀 Passionate about building real-world web applications and continuously improving my problem-solving skills.<br>Full Stack Web Development projects using the MERN Stack and improving my Data Structures & Algorithms skills.<br>Open-source projects, MERN Stack applications, and AI/ML-based projects.<br>C, Python, JavaScript, MERN Stack basics, Git & GitHub, and Machine Learning.<br>Software Development Intern (Virtual)<br>CCC Private Limited<br>📅 May 2026 – July 2026<br><br>• Worked on backend development using Node.js and Express.js.<br>• Collaborated with the development team on real-world software tasks.<br>• Improved API performance and fixed application issues.<br>• Used Git and GitHub for version control and collaboration.
+<h1 align="center">Hi 👋, I'm Sravya Namburu</h1>
+<h3 align="center">Aspiring Software Developer | MERN Stack Developer | Machine Learning Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sravya Namburu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sravyanamburu2006@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AP24110011696&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AP24110011696&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AP24110011696&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AP24110011696&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AP24110011696&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/AP24110011696">
+    <img src="https://img.shields.io/badge/GitHub-AP24110011696-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sravya-namburu-162620345">
+    <img src="https://img.shields.io/badge/LinkedIn-Sravya%20Namburu-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sravyanamburu2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AP24110011696&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering student at **SRM University AP**
+
+💼 Software Development Intern (Virtual) at **CCC Private Limited** *(May 2026 – July 2026)*
+
+💻 Passionate about Full Stack Web Development, Backend Engineering and Machine Learning.
+
+🌱 Currently learning
+- MERN Stack
+- Docker
+- System Design
+- Data Structures & Algorithms
+
+🚀 Interested in building scalable applications and solving real-world problems.
+
+💬 Ask me about
+- MERN Stack
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Python
+- Git & GitHub
+
+---
+
+# 💼 Professional Experience
+
+### Software Development Intern (Virtual)
+**CCC Private Limited**
+
+📅 **May 2026 – July 2026**
+
+- Developed backend APIs using **Node.js** and **Express.js**
+- Worked with REST APIs and database integration
+- Collaborated with the development team on real-world software projects
+- Used Git & GitHub for version control
+- Debugged and optimized backend applications
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Events and Opportunity Discovery Platform
+A platform for discovering internships, hackathons, workshops and technical events.
+
+**Tech Stack**
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+🔗 Repository:
+(Add your repository link)
+
+---
+
+## 📌 Question Difficulty Classification
+
+Machine Learning based system to classify coding questions according to their difficulty level.
+
+**Tech Stack**
+- Python
+- Machine Learning
+- Flask
+
+🔗 Repository:
+(Add your repository link)
+
+---
+
+## 📌 Question Difficulty Classification Backend
+
+Backend APIs for the Question Difficulty Classification system.
+
+**Tech Stack**
+- Node.js
+- Express.js
+- MongoDB
+
+🔗 Repository:
+(Add your repository link)
+
+---
+
+## 📌 Smart Attendance Management System
+
+Attendance Management System with authentication and attendance tracking.
+
+**Tech Stack**
+- MERN Stack
+
+🔗 Repository:
+(Add your repository link)
+
+---
+
+## 📌 Plagiarism Checker
+
+Web application for plagiarism detection.
+
+**Tech Stack**
+- Python
+- JavaScript
+
+🔗 Repository:
+(Add your repository link)
+
+---
+
+## 📌 Electro Map
+
+Interactive application for electrical mapping and visualization.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repository:
+(Add your repository link)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=AP24110011696&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AP24110011696&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AP24110011696&layout=compact&theme=radical)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AP24110011696&theme=radical&no-frame=true&margin-w=10)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AP24110011696&theme=react-dark)
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Professional Full Stack Developer
+- ✅ Master Backend Development
+- ✅ Learn Docker and DevOps
+- ✅ Improve DSA & Problem Solving
+- ✅ Contribute to Open Source
+- ✅ Build impactful AI/ML Projects
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** sravyanamburu2006@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sravya-namburu-162620345
+
+💻 **GitHub:** https://github.com/AP24110011696
+
+---
+
+![](https://komarev.com/ghpvc/?username=AP24110011696&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h4 align="center">"Learning • Building • Growing Every Day"</h4>
