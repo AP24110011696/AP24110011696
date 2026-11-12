@@ -1,228 +1,151 @@
-<h1 align="center">Hi 👋, I'm Sravya Namburu</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Developer | Machine Learning Enthusiast</h3>
+👋 Hey, I'm Sravya Namburu!
+Aspiring Software Developer | Full-Stack Development | Machine Learning
+
+Building practical applications, exploring new technologies, and turning ideas into working software.
 
 <p align="center">
-  <a href="https://github.com/AP24110011696">
-    <img src="https://img.shields.io/badge/GitHub-AP24110011696-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sravya-namburu-162620345">
-    <img src="https://img.shields.io/badge/LinkedIn-Sravya%20Namburu-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:sravyanamburu2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/AP24110011696">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sravya-namburu-162620345">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sravyanamburu2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
----
+✨ About Me
+🎓 Computer Science Engineering student at SRM University AP
+💻 Interested in Full-Stack Development and Backend Engineering
+🤖 Exploring Machine Learning and practical AI applications
+🌱 Currently learning Docker, System Design, and Data Structures & Algorithms
+🔧 Enjoy building applications, solving problems, and learning through implementation
+🎯 Working towards becoming a skilled and well-rounded Software Engineer
 
-# 👩‍💻 About Me
+I believe in learning by building, improving through feedback, and writing software that solves meaningful problems.
 
-🎓 B.Tech Computer Science Engineering student at **SRM University AP**
+🛠️ Technical Skills
+Programming Languages
 
-💼 Software Development Intern (Virtual) at **CCC Private Limited** *(May 2026 – July 2026)*
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+</p>
 
-💻 Passionate about Full Stack Web Development, Backend Engineering and Machine Learning.
+Frontend Development
 
-🌱 Currently learning
-- MERN Stack
-- Docker
-- System Design
-- Data Structures & Algorithms
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-🚀 Interested in building scalable applications and solving real-world problems.
+Backend Development
 
-💬 Ask me about
-- MERN Stack
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- Python
-- Git & GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
----
+Databases
 
-# 💼 Professional Experience
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Software Development Intern (Virtual)
-**CCC Private Limited**
+Tools & Technologies
 
-📅 **May 2026 – July 2026**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
 
-- Developed backend APIs using **Node.js** and **Express.js**
-- Worked with REST APIs and database integration
-- Collaborated with the development team on real-world software projects
-- Used Git & GitHub for version control
-- Debugged and optimized backend applications
+🚀 Projects & Exploration
 
----
+Here are some projects and areas I have explored through development and collaboration.
 
-# 🚀 Featured Projects
+🌐 Full-Stack Development
 
-## 📌 Events and Opportunity Discovery Platform
-A platform for discovering internships, hackathons, workshops and technical events.
+Customer Feedback & Feature Request Portal
 
-**Tech Stack**
-- React
-- Node.js
-- Express.js
-- MongoDB
+A platform concept for collecting customer feedback, managing feature requests, and supporting product improvement.
 
-🔗 Repository:
-(https://github.com/AP24110011696/EVENTS-AND-OPPORTUNITY-DISCOVERY-PLATFORMS
-)
+Technologies: React, Node.js, Express, MongoDB
+Areas explored: Authentication, REST APIs, voting, dashboards and real-time updates.
 
----
+ElectroMap – EV Charging Station Finder
 
-## 📌 Question Difficulty Classification
+An application focused on helping users discover electric vehicle charging stations.
 
-Machine Learning based system to classify coding questions according to their difficulty level.
+Technologies: React, Node.js, Express, MongoDB
+Areas explored: Maps, location-based search, filters and station management.
 
-**Tech Stack**
-- Python
-- Machine Learning
-- Flask
+Events & Opportunity Discovery Platform
 
-🔗 Repository:
-()
+A platform concept for discovering internships, hackathons, workshops and technical opportunities.
 
----
+Technologies: MERN Stack
+🤖 Machine Learning
 
-## 📌 Question Difficulty Classification Backend
+Credit Card Fraud Detection
 
-Backend APIs for the Question Difficulty Classification system.
+A machine learning project exploring the identification of potentially fraudulent transactions.
 
-**Tech Stack**
-- Node.js
-- Express.js
-- MongoDB
+Technologies: Python, Pandas, NumPy, Scikit-learn
+Areas explored: Data preprocessing, classification and model evaluation.
 
-🔗 Repository:
-()
+Question Difficulty Classification
 
----
+Exploration of classifying coding questions into difficulty categories using machine learning.
 
-## 📌 Smart Attendance Management System
+Technologies: Python, Machine Learning, Flask
+💡 Other Development Projects
+Plagiarism Checker – Text similarity and plagiarism detection.
+Smart Attendance Management System – Attendance tracking and authentication.
+Note: Projects listed here may include individual and collaborative work. I aim to document my specific contributions and the original authors clearly in each repository.
+📚 Currently Learning
+Area	Focus
+Full-Stack Development	React, Node.js, Express, MongoDB
+Backend Engineering	REST APIs, authentication, database design
+Computer Science	DSA, problem solving, OOP
+DevOps	Docker, deployment, development workflows
+Machine Learning	Data preprocessing, classification, model evaluation
+Software Engineering	System design, testing, clean code
+📊 GitHub Statistics
 
-Attendance Management System with authentication and attendance tracking.
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AP24110011696&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP24110011696&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Tech Stack**
-- MERN Stack
-
-🔗 Repository:
-(https://github.com/AP24110011696/Smart-attendance-management-system)
-
----
-
-## 📌 Plagiarism Checker
-
-Web application for plagiarism detection.
-
-**Tech Stack**
-- Python
-- JavaScript
-
-🔗 Repository:
-(https://github.com/AP24110011696/plagiarism-checker)
-
----
-
-## 📌 Electro Map
-
-Interactive application for electrical mapping and visualization.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-
-🔗 Repository:
-(https://github.com/AP24110011696/ELECTRO-MAP)
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=AP24110011696&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AP24110011696&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AP24110011696&layout=compact&theme=radical)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AP24110011696&theme=radical&no-frame=true&margin-w=10)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AP24110011696&theme=react-dark)
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a Professional Full Stack Developer
-- ✅ Master Backend Development
-- ✅ Learn Docker and DevOps
-- ✅ Improve DSA & Problem Solving
-- ✅ Contribute to Open Source
-- ✅ Build impactful AI/ML Projects
-
----
-
-# 📫 Connect with Me
-
-📧 **Email:** sravyanamburu2006@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/sravya-namburu-162620345
-
-💻 **GitHub:** https://github.com/AP24110011696
-
----
-
-![](https://komarev.com/ghpvc/?username=AP24110011696&label=Profile+Views&color=0e75b6&style=for-the-badge)
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-<h4 align="center">"Learning • Building • Growing Every Day"</h4>
+<p align="center">
+<img width="90%" src="https://streak-stats.demolab.com?user=AP24110011696&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AP24110011696&theme=tokyo-night&hide_border=true" />
+</p>
+
+🎯 My 2026 Goals
+Strengthen Data Structures & Algorithms
+Build and deploy production-ready full-stack applications
+Improve backend architecture and API development
+Learn Docker and deployment workflows
+Deepen my understanding of Machine Learning
+Contribute to open-source projects
+Improve software engineering and problem-solving skills
+🤝 Let's Connect!
+
+I'm always interested in learning, collaborating, and connecting with people in technology.
+
+<p align="center">
+<a href="https://github.com/AP24110011696">GitHub</a> •
+<a href="https://www.linkedin.com/in/sravya-namburu-162620345">LinkedIn</a> •
+<a href="mailto:sravyanamburu2006@gmail.com">Email</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AP24110011696&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
+
+<h3 align="center">✨ Learn. Build. Improve. Repeat. ✨</h3>
+
+<p align="center">
+Thanks for visiting my profile! 🚀
+</p>
